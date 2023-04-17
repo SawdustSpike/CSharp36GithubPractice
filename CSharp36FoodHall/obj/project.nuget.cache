@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwGf1wmZw9f4etlnDYcZno19s+KroeSlF/nvGCUrl38F6kYt7ihqPmB4cSEN7QVzqXy9pbKZyJ1O26N+EBdRkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\CSharp36FoodHall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
