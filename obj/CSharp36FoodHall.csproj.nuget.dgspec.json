@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\CSharp36FoodHall.csproj": {}
+    "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\CSharp36FoodHall.csproj": {
+    "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\CSharp36FoodHall.csproj",
+        "projectUniqueName": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj",
         "projectName": "CSharp36FoodHall",
-        "projectPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\CSharp36FoodHall.csproj",
+        "projectPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj",
         "packagesPath": "C:\\Users\\spike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall\\obj\\",
+        "outputPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spike\\AppData\\Roaming\\NuGet\\NuGet.Config",
