@@ -1,0 +1,15 @@
+C:\Users\spike\source\Repos\Github Demo\bin\Debug\net6.0\CSharp36FoodHall.exe
+C:\Users\spike\source\Repos\Github Demo\bin\Debug\net6.0\CSharp36FoodHall.deps.json
+C:\Users\spike\source\Repos\Github Demo\bin\Debug\net6.0\CSharp36FoodHall.runtimeconfig.json
+C:\Users\spike\source\Repos\Github Demo\bin\Debug\net6.0\CSharp36FoodHall.dll
+C:\Users\spike\source\Repos\Github Demo\bin\Debug\net6.0\CSharp36FoodHall.pdb
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.csproj.AssemblyReference.cache
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.AssemblyInfoInputs.cache
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.AssemblyInfo.cs
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.csproj.CoreCompileInputs.cache
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.dll
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\refint\CSharp36FoodHall.dll
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.pdb
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\CSharp36FoodHall.genruntimeconfig.cache
+C:\Users\spike\source\Repos\Github Demo\obj\Debug\net6.0\ref\CSharp36FoodHall.dll
