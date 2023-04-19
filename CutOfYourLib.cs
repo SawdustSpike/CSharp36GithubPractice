@@ -30,8 +30,8 @@ namespace CSharp36FoodHall
             Console.WriteLine($"It was a {adj1} morning when the C-Sharp 36 zoom call began.\n{person1} was the first to arrive" +
                $", {noun1} proudly being displayed in their background.\nThe rest of the class soon arrived and together they {adverb1} went" +
                $" over the quiz.\n\"{excl1}!\" {person2} exclaimed. \"That was a tough lesson!\".\n\"I don't know " +
-               $"about the rest of you\", {person3} said, {adverb2} {verbing1} thier pet {animal1}, \"but I'm hungry\".\n" +
-               $"So the class decided to {verb1} and get some {food1}, everyone except {person4}, who {verbed1} in a" +
+               $"about the rest of you\", {person3} said, {adverb2} {verbing1} their pet {animal1}, \"but I'm hungry\".\n" +
+               $"So the class decided to {verb1} and get some {food1}.\n Everyone except {person4}, who {verbed1} in a" +
                $" breakout room until everyone got back."
                );
         }
