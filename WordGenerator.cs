@@ -70,7 +70,7 @@ namespace CSharp36FoodHall
         }
 
         #region Properties
-        public List<string> Adjectives { get; set; } 
+        public List<string> Adjectives { get; set; }
         public List<string> Adverbs { get; set; }
         public List<string> Animals { get; set; }
         public List<string> Exclamations { get; set; }
@@ -88,63 +88,74 @@ namespace CSharp36FoodHall
         {
             int randomNumber = rng.Next(words.Count);
             return words[randomNumber];
+        }
+        public string R(List<string> words, params string[] used) 
+        {
+            var newWord = "";
+            do
+            {
+                int randomNumber = rng.Next(words.Count);
+                newWord = words[randomNumber];
             }
-            //public string Adjective()
-            //{
-            //    int randomNumber = rng.Next(Adjectives.Count);
-            //    return Adjectives[randomNumber];
-            //}  
-            //public string Adverb()
-            //{
-            //    int randomNumber = rng.Next(Adverbs.Count);
-            //    return Adverbs[randomNumber];
-            //}  
-            //public string Animal()
-            //{
-            //    int randomNumber = rng.Next(Animals.Count);
-            //    return Animals[randomNumber];
-            //}  
-            //public string Exclamation()
-            //{
-            //    int randomNumber = rng.Next(Exclamations.Count);
-            //    return Exclamations[randomNumber];
-            //}  
-            //public string Food()
-            //{
-            //    int randomNumber = rng.Next(Foods.Count);
-            //    return Foods[randomNumber];
-            //}  
-            //public string Noun()
-            //{
-            //    int randomNumber = rng.Next(Nouns.Count);
-            //    return Nouns[randomNumber];
-            //}  
-            //public string PartOfTheBody()
-            //{
-            //    int randomNumber = rng.Next(PartsOfTheBody.Count);
-            //    return PartsOfTheBody[randomNumber];
-            //}  
-            //public string CSharp36()
-            //{
-            //    int randomNumber = rng.Next(PeopleOfCS36.Count);
-            //    return PeopleOfCS36[randomNumber];
-            //}  
-            //public string Verb()
-            //{
-            //    int randomNumber = rng.Next(Verbs.Count);
-            //    return Verbs[randomNumber];
-            //}  
-            //public string VerbEndingInEd()
-            //{
-            //    int randomNumber = rng.Next(VerbsEndingInEd.Count);
-            //    return VerbsEndingInEd[randomNumber];
-            //}
-            //public string VerbEndingInIng()
-            //{
-            //    int randomNumber = rng.Next(VerbsEndingInIng.Count);
-            //    return VerbsEndingInIng[randomNumber];
-            //}
-            #endregion
-        
+            while (used.Contains(newWord));
+            return newWord;
+        }
+        //public string Adjective()
+        //{
+        //    int randomNumber = rng.Next(Adjectives.Count);
+        //    return Adjectives[randomNumber];
+        //}  
+        //public string Adverb()
+        //{
+        //    int randomNumber = rng.Next(Adverbs.Count);
+        //    return Adverbs[randomNumber];
+        //}  
+        //public string Animal()
+        //{
+        //    int randomNumber = rng.Next(Animals.Count);
+        //    return Animals[randomNumber];
+        //}  
+        //public string Exclamation()
+        //{
+        //    int randomNumber = rng.Next(Exclamations.Count);
+        //    return Exclamations[randomNumber];
+        //}  
+        //public string Food()
+        //{
+        //    int randomNumber = rng.Next(Foods.Count);
+        //    return Foods[randomNumber];
+        //}  
+        //public string Noun()
+        //{
+        //    int randomNumber = rng.Next(Nouns.Count);
+        //    return Nouns[randomNumber];
+        //}  
+        //public string PartOfTheBody()
+        //{
+        //    int randomNumber = rng.Next(PartsOfTheBody.Count);
+        //    return PartsOfTheBody[randomNumber];
+        //}  
+        //public string CSharp36()
+        //{
+        //    int randomNumber = rng.Next(PeopleOfCS36.Count);
+        //    return PeopleOfCS36[randomNumber];
+        //}  
+        //public string Verb()
+        //{
+        //    int randomNumber = rng.Next(Verbs.Count);
+        //    return Verbs[randomNumber];
+        //}  
+        //public string VerbEndingInEd()
+        //{
+        //    int randomNumber = rng.Next(VerbsEndingInEd.Count);
+        //    return VerbsEndingInEd[randomNumber];
+        //}
+        //public string VerbEndingInIng()
+        //{
+        //    int randomNumber = rng.Next(VerbsEndingInIng.Count);
+        //    return VerbsEndingInIng[randomNumber];
+        //}
+        #endregion
+
     }
 }
