@@ -14,7 +14,7 @@ namespace CSharp36FoodHall
         {
             Adjectives = new List<string>() { 
                 //Add Adjectives Below
-                "stinky", "defunct", "dank", "honestly obscene"
+                "stinky", "defunct", "dank", "honestly obscene", "funny", "adorable", "stanky"
             };
 
             Adverbs = new List<string>() { 
@@ -24,7 +24,7 @@ namespace CSharp36FoodHall
 
             Animals = new List<string>() {
                 //Add Animals Below
-                "llama", "alpaca", "moose", "fish"
+                "llama", "alpaca", "moose", "fish", "kangaroo", "elephant"
             };
 
             Exclamations = new List<string>() { 
@@ -34,12 +34,12 @@ namespace CSharp36FoodHall
 
             Foods = new List<string>() {
                 // Add Foods Below
-                "tacos", "bananas", "bacon"
+                "tacos", "bananas", "bacon", "cheese", "fruit cup"
             };
 
             Nouns = new List<string>() { 
                 //Add Nouns Below
-                "Goku", "Taco Bell bathroom", "butterfly knife"
+                "Goku", "Taco Bell bathroom", "butterfly knife", "desk", "tower", "keyboard"
             };
 
             PartsOfTheBody = new List<string>() { 

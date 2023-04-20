@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\spike\\.nuget\\packages\\": {}
+    "C:\\Users\\amori\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj",
+      "projectUniqueName": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
       "projectName": "CSharp36FoodHall",
-      "projectPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\CSharp36FoodHall.csproj",
-      "packagesPath": "C:\\Users\\spike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spike\\source\\Repos\\Github Demo\\obj\\",
+      "projectPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+      "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,30 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
