@@ -48,7 +48,7 @@ namespace CSharp36FoodHall
             };
 
             PeopleOfCS36 = new List<string>() { 
-                //All Classmates and Teachers already added. Add if I forgot someone, optherwise ignore.
+                //All Classmates and Teachers already added. Add if I forgot someone, otherwise ignore.
                 "Amoriss", "Monica", "Mike C", "Adam", "Doug", "Hassan", "Katherine", "Michael", "William", "Yvonne", "Zachery", "Zacheri"
             };
 
@@ -91,7 +91,7 @@ namespace CSharp36FoodHall
         }
         public string R(List<string> words, params string[] used) 
         {
-            var newWord = "";
+            string? newWord = String.Empty;
             do
             {
                 int randomNumber = rng.Next(words.Count);
