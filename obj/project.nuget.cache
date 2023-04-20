@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3PLDPMJNo5UCrHtBwNGxYz6Sv1Xpy3fBp3zz15tdhHKHbhWzEz6ctt2GmDJsHPyCZZkRv6TyQiqQujz9weZdlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+=======
+  "dgSpecHash": "OGDocDRZfa4fXW4XiaKby1e56tDS8IwzMKnK2aFmmViLYpohEBgPsX9koK54xwg+O4sDcKBvYSgr/A1R1zOdyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+>>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
   "expectedPackageFiles": [],
   "logs": []
 }

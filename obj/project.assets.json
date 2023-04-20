@@ -8,11 +8,16 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\dmcpe\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\amori\\.nuget\\packages\\": {}
+>>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
       "projectName": "CSharp36FoodHall",
       "projectPath": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmcpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+      "projectName": "CSharp36FoodHall",
+      "projectPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+      "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +76,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+>>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
       }
     }
   }
