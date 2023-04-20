@@ -14,37 +14,37 @@ namespace CSharp36FoodHall
         {
             Adjectives = new List<string>() { 
                 //Add Adjectives Below
-                "stinky", "defunct", "dank", "honestly obscene"
+                "stinky", "defunct", "dank", "honestly obscene", "pithy", "glowing"
             };
 
             Adverbs = new List<string>() { 
                 //Add Adverbs Below
-                "quickly", "lazily", "stupidly"
+                "quickly", "lazily", "stupidly", "absentmindedly"
             };
 
             Animals = new List<string>() {
                 //Add Animals Below
-                "llama", "alpaca", "moose", "fish"
+                "llama", "alpaca", "moose", "fish", "sloth", "blue whale", "Komodo Dragon", "slug"
             };
 
             Exclamations = new List<string>() { 
                 //Add Exclamations Below
-                "Hotchie motchie","Doh"
+                "Hotchie motchie","Doh", "D@mn", "oops", "what the"
             };
 
             Foods = new List<string>() {
                 // Add Foods Below
-                "tacos", "bananas", "bacon"
+                "tacos", "bananas", "bacon", "hamburgers", "durian"
             };
 
             Nouns = new List<string>() { 
                 //Add Nouns Below
-                "Goku", "Taco Bell bathroom", "butterfly knife"
+                "Goku", "Taco Bell bathroom", "butterfly knife", "skewer", "car", "Monopoly"
             };
 
             PartsOfTheBody = new List<string>() { 
                 //Add Parts Of The Body Below. Keep it class appropriate!
-                "baby toe", "knee", "knuckle"
+                "baby toe", "knee", "knuckle", "pinkie", "shin", "shoulder"
             };
 
             PeopleOfCS36 = new List<string>() { 
@@ -54,17 +54,17 @@ namespace CSharp36FoodHall
 
             Verbs = new List<string>() { 
                 //Add Verbs Below
-                "code", "swim", "have a mental breakdown"
+                "code", "swim", "have a mental breakdown", "panic", "walk like an Egyptian"
             };
 
             VerbsEndingInEd = new List<string>() { 
                 //Add Verbs Ending in "ed" below
-                "debugged", "waited", "danced like Wednesday Adams"
+                "debugged", "waited", "danced like Wednesday Adams", "passed", "continued", "looked"
             };
 
             VerbsEndingInIng = new List<string>() { 
                 //Add Verbs Ending in ing below
-                "recording", "cooking", "walking"
+                "recording", "cooking", "walking", "swimming", "running", "stopping", "singing"
             };
 
         }
