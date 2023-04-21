@@ -14,42 +14,56 @@ namespace CSharp36FoodHall
         {
             Adjectives = new List<string>() { 
                 //Add Adjectives Below
-                "stinky", "defunct", "dank", "honestly obscene", "pithy", "glowing", "funny", "adorable", "stanky"
+
+                "stinky", "defunct", "dank", "honestly obscene", "pithy", "glowing", "funny", "adorable", "stanky", "inadequately hydrated",
+
             };
 
             Adverbs = new List<string>() { 
                 //Add Adverbs Below
-                "quickly", "lazily", "stupidly", "absentmindedly"
+
+                "quickly", "lazily", "stupidly", "absentmindedly", "smoothly", "unfortunately"
+
             };
 
             Animals = new List<string>() {
                 //Add Animals Below
-                "llama", "alpaca", "moose", "fish", "sloth", "blue whale", "Komodo Dragon", "slug", "kangaroo", "elephant"
+
+                "llama", "alpaca", "moose", "fish", "sloth", "blue whale", "Komodo Dragon", "slug", "kangaroo", "elephant", "caterpillar"
+
 
             };
 
             Exclamations = new List<string>() { 
                 //Add Exclamations Below
-                "Hotchie motchie","Doh", "D@mn", "oops", "what the"
+
+                "Hotchie motchie","Doh", "D@mn", "oops", "what the", "BRO"
+
             };
 
             Foods = new List<string>() {
                 // Add Foods Below
 
-                "tacos", "bananas", "bacon", "hamburgers", "durian", "cheese", "fruit cup"
+
+                "tacos", "bananas", "bacon", "hamburgers", "durian", "cheese", "fruit cup", "dutch baby"
+
 
             };
 
             Nouns = new List<string>() { 
                 //Add Nouns Below
 
-                "Goku", "Taco Bell bathroom", "butterfly knife", "skewer", "car", "Monopoly", "desk", "tower", "keyboard"
+
+                "Goku", "Taco Bell bathroom", "butterfly knife", "skewer", "car", "Monopoly", "desk", "tower", "keyboard", "a signed copy of 50 shades of gray"
 
             };
 
             PartsOfTheBody = new List<string>() { 
                 //Add Parts Of The Body Below. Keep it class appropriate!
-                "baby toe", "knee", "knuckle", "pinkie", "shin", "shoulder"
+
+                "baby toe", "knee", "knuckle", "pinkie", "shin", "shoulder", "front teeth"
+
+
             };
 
             PeopleOfCS36 = new List<string>() { 
@@ -59,7 +73,9 @@ namespace CSharp36FoodHall
 
             Verbs = new List<string>() { 
                 //Add Verbs Below
+
                 "code", "swim", "have a mental breakdown", "panic", "walk like an Egyptian"
+
             };
 
             VerbsEndingInEd = new List<string>() { 
