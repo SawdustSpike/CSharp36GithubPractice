@@ -14,11 +14,7 @@ namespace CSharp36FoodHall
         {
             Adjectives = new List<string>() { 
                 //Add Adjectives Below
-<<<<<<< HEAD
-                "stinky", "defunct", "dank", "honestly obscene", "pithy", "glowing"
-=======
-                "stinky", "defunct", "dank", "honestly obscene", "funny", "adorable", "stanky"
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+                "stinky", "defunct", "dank", "honestly obscene", "pithy", "glowing", "funny", "adorable", "stanky"
             };
 
             Adverbs = new List<string>() { 
@@ -28,11 +24,8 @@ namespace CSharp36FoodHall
 
             Animals = new List<string>() {
                 //Add Animals Below
-<<<<<<< HEAD
-                "llama", "alpaca", "moose", "fish", "sloth", "blue whale", "Komodo Dragon", "slug"
-=======
-                "llama", "alpaca", "moose", "fish", "kangaroo", "elephant"
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+                "llama", "alpaca", "moose", "fish", "sloth", "blue whale", "Komodo Dragon", "slug", "kangaroo", "elephant"
+
             };
 
             Exclamations = new List<string>() { 
@@ -42,20 +35,16 @@ namespace CSharp36FoodHall
 
             Foods = new List<string>() {
                 // Add Foods Below
-<<<<<<< HEAD
-                "tacos", "bananas", "bacon", "hamburgers", "durian"
-=======
-                "tacos", "bananas", "bacon", "cheese", "fruit cup"
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+
+                "tacos", "bananas", "bacon", "hamburgers", "durian", "cheese", "fruit cup"
+
             };
 
             Nouns = new List<string>() { 
                 //Add Nouns Below
-<<<<<<< HEAD
-                "Goku", "Taco Bell bathroom", "butterfly knife", "skewer", "car", "Monopoly"
-=======
-                "Goku", "Taco Bell bathroom", "butterfly knife", "desk", "tower", "keyboard"
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+
+                "Goku", "Taco Bell bathroom", "butterfly knife", "skewer", "car", "Monopoly", "desk", "tower", "keyboard"
+
             };
 
             PartsOfTheBody = new List<string>() { 

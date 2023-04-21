@@ -1,14 +1,20 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "3PLDPMJNo5UCrHtBwNGxYz6Sv1Xpy3fBp3zz15tdhHKHbhWzEz6ctt2GmDJsHPyCZZkRv6TyQiqQujz9weZdlQ==",
+  "dgSpecHash": "lnbDSUPa7JoMkxBkbMhvxEtuVWVMXKfQ/78ucOod5YzAWZ+5YsYINuYYJ80VclFdtgAINUcUlQuG4ZrQkZSHZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
-=======
-  "dgSpecHash": "OGDocDRZfa4fXW4XiaKby1e56tDS8IwzMKnK2aFmmViLYpohEBgPsX9koK54xwg+O4sDcKBvYSgr/A1R1zOdyw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\spike\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

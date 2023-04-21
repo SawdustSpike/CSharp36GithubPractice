@@ -8,34 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\dmcpe\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\amori\\.nuget\\packages\\": {}
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+    "C:\\Users\\spike\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+      "projectUniqueName": "C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
       "projectName": "CSharp36FoodHall",
-      "projectPath": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
-      "packagesPath": "C:\\Users\\dmcpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmcpe\\Desktop\\Repos\\CSharp36GithubPractice\\obj\\",
+      "projectPath": "C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
+      "packagesPath": "C:\\Users\\spike\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dmcpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
-      "projectName": "CSharp36FoodHall",
-      "projectPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\CSharp36FoodHall.csproj",
-      "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amori\\Desktop\\Repos\\CSharp36GithubPractice\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+        "C:\\Users\\spike\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,17 +56,39 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
->>>>>>> fdbd137e5e0549f6917089c0cc309bbe68d59de0
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\spike\\Source\\Repos\\CSharp36GithubPractice\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
