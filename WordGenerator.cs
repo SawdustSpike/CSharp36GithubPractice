@@ -14,37 +14,37 @@ namespace CSharp36FoodHall
         {
             Adjectives = new List<string>() { 
                 //Add Adjectives Below
-                "stinky", "defunct", "dank", "honestly obscene"
+                "stinky", "defunct", "dank", "honestly obscene", "inadequately hydrated", 
             };
 
             Adverbs = new List<string>() { 
                 //Add Adverbs Below
-                "quickly", "lazily", "stupidly"
+                "quickly", "lazily", "stupidly", "smoothly", "unfortunately"
             };
 
             Animals = new List<string>() {
                 //Add Animals Below
-                "llama", "alpaca", "moose", "fish"
+                "llama", "alpaca", "moose", "fish", "caterpillar"
             };
 
             Exclamations = new List<string>() { 
                 //Add Exclamations Below
-                "Hotchie motchie","Doh"
+                "Hotchie motchie","Doh", "BRO"
             };
 
             Foods = new List<string>() {
                 // Add Foods Below
-                "tacos", "bananas", "bacon"
+                "tacos", "bananas", "bacon", "dutch baby"
             };
 
             Nouns = new List<string>() { 
                 //Add Nouns Below
-                "Goku", "Taco Bell bathroom", "butterfly knife"
+                "Goku", "Taco Bell bathroom", "butterfly knife", "a signed copy of 50 shades of gray"
             };
 
             PartsOfTheBody = new List<string>() { 
                 //Add Parts Of The Body Below. Keep it class appropriate!
-                "baby toe", "knee", "knuckle"
+                "baby toe", "knee", "knuckle", "front teeth"
             };
 
             PeopleOfCS36 = new List<string>() { 
@@ -54,7 +54,7 @@ namespace CSharp36FoodHall
 
             Verbs = new List<string>() { 
                 //Add Verbs Below
-                "code", "swim", "have a mental breakdown"
+                "code", "swim", "have a mental breakdown", 
             };
 
             VerbsEndingInEd = new List<string>() { 
